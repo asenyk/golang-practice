@@ -1,4 +1,4 @@
-module golang-practice
+module github.com/asenyk/golang-practice
 
 go 1.19
 
